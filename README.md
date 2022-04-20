@@ -1,12 +1,12 @@
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: __2hr___
 
-Start time: _____
+Start time: _4___
 
-Finish time: _____
+Finish time: __6___
 
-Actual time needed to complete: _____
+Actual time needed to complete: __2hr___
 
 
 # Modify this portfolio
 
-Make it your own! 
+Make it your own!
